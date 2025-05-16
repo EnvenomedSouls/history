@@ -1,0 +1,20 @@
+  body {
+  background-image: url('https://sun9-30.userapi.com/impg/a_Ql6HfXZlL1sGl8_9kedcrGL0BjKjWalcmivw/DtNEVK7rVZE.jpg?size=2560x1350&quality=95&sign=e16a94fb1f8c31b6f237b8374746897f&type=album');
+ background-size 1200px;
+ background-attachment: fixed; 
+    text-align: center;}
+.posts{
+  float: left;
+  width: 100%;
+ text-align: center;
+  height: 300px;
+  font-size: 25px;
+
+
+}
+  #mainpage {
+  padding: 10px;
+    border-radius: 15px;
+body {
+  font-family: "Sofia Sans Condensed", sans-serif;
+}
